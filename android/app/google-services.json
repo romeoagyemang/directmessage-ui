@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "800506729809",
+    "project_id": "messagingapp-8939e",
+    "storage_bucket": "messagingapp-8939e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800506729809:android:2ac36bbc60b6d59cb92f70",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800506729809-mo2i472nh3gha44gs7jegaej9plfli1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP2Oigg1ugNQcWSgGx82zLL1anbB9ZE-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800506729809-mo2i472nh3gha44gs7jegaej9plfli1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
